@@ -1,0 +1,16 @@
+SET FOREIGN_KEY_CHECKS = 0;
+drop table if exists productos;
+CREATE TABLE IF NOT EXISTS productos (
+id_producto INT AUTO_INCREMENT NOT NULL,
+nombre CHAR(100) NOT NULL,
+marca CHAR(50) NOT NULL,
+categoria CHAR (50) NOT NULL,
+precio float NOT NULL,
+descripcion CHAR(255) NULL,
+f_creacion DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+f_modificacion DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+url CHAR(255) NOT NULL,
+visitas INT DEFAULT 0,
+PRIMARY KEY (id_producto),
+FOREIGN KEY (categoria) REFERENCES categorias (nombre) ON DELETE RESTRICT ON UPDATE CASCADE
+) ENGINE=InnoDB;

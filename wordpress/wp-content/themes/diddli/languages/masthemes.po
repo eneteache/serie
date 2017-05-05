@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diddli\n"
+"POT-Creation-Date: 2015-03-14 00:31-0300\n"
+"PO-Revision-Date: 2015-03-14 00:32-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "¡Ups! Page not found"
+msgstr ""
+
+#: 404.php:7
+msgid "[cod.404]"
+msgstr ""
+
+#: 404.php:8
+msgid ""
+"It seems that the section you are looking for does not exist or is not "
+"available at this time."
+msgstr ""
+
+#: 404.php:10
+msgid "Back to previous page"
+msgstr ""
+
+#: 404.php:10
+msgid "Go to the homepage"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:493
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.options.php:10
+msgid "Choose category:"
+msgstr ""
+
+#: admin/functions/functions.options.php:15
+msgid "Select one page:"
+msgstr ""
+
+#: admin/functions/functions.options.php:18 archive.php:12 category.php:12
+#: index.php:13
+msgid "Cover + Category + Tittle"
+msgstr ""
+
+#: admin/functions/functions.options.php:18
+msgid "Cover + Tittle"
+msgstr ""
+
+#: admin/functions/functions.options.php:19 functions.php:370
+#: functions.php:381
+msgid "Style 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:19 functions.php:373
+#: functions.php:382
+msgid "Style 2"
+msgstr ""
+
+#: admin/functions/functions.options.php:19 functions.php:376
+#: functions.php:383
+msgid "Style 3"
+msgstr ""
+
+#: admin/functions/functions.options.php:49
+msgid "General options"
+msgstr ""
+
+#: admin/functions/functions.options.php:54
+#: masthemes/descargas/descargas.php:63
+msgid "Language"
+msgstr ""
+
+#: admin/functions/functions.options.php:55
+msgid "Insert your languages"
+msgstr ""
+
+#: admin/functions/functions.options.php:57
+msgid "en_EN"
+msgstr ""
+
+#: admin/functions/functions.options.php:61
+msgid "API TMDb"
+msgstr ""
+
+#: admin/functions/functions.options.php:62
+msgid "Insert your API of themoviedb to start generating content."
+msgstr ""
+
+#: admin/functions/functions.options.php:68
+msgid "Language of extraction"
+msgstr ""
+
+#: admin/functions/functions.options.php:69
+msgid "Thanks to TMDB you can create movies so fast in the language you need."
+msgstr ""
+
+#: admin/functions/functions.options.php:75
+msgid "Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:76
+msgid "Favicon for the website."
+msgstr ""
+
+#: admin/functions/functions.options.php:83
+msgid "Slider"
+msgstr ""
+
+#: admin/functions/functions.options.php:84
+msgid "Select a category to show in the slider."
+msgstr ""
+
+#: admin/functions/functions.options.php:91
+msgid "Select the number of movies to show in the slider."
+msgstr ""
+
+#: admin/functions/functions.options.php:97
+msgid "Design"
+msgstr ""
+
+#: admin/functions/functions.options.php:102
+msgid "Home"
+msgstr ""
+
+#: admin/functions/functions.options.php:103
+msgid "Select the type of design that was used to show movies in the home."
+msgstr ""
+
+#: admin/functions/functions.options.php:109
+msgid "Categories and archives"
+msgstr ""
+
+#: admin/functions/functions.options.php:110
+msgid ""
+"Select the type of design that was used to show movies in categories and "
+"archives."
+msgstr ""
+
+#: admin/functions/functions.options.php:116
+msgid "Style post"
+msgstr ""
+
+#: admin/functions/functions.options.php:117
+msgid ""
+"Select the type of design that will be used by default to show their post . "
+"(Within each post may define whether you want to use another , if not "
+"defined by selected will be used here)"
+msgstr ""
+
+#: admin/functions/functions.options.php:123
+msgid "Banner and Advertising"
+msgstr ""
+
+#: admin/functions/functions.options.php:129
+#: admin/functions/functions.options.php:136
+msgid "Banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:142
+msgid "Random affiliate URL 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:143
+#: admin/functions/functions.options.php:150
+#: admin/functions/functions.options.php:157
+#: admin/functions/functions.options.php:164
+msgid "Place your affiliate url to be placed on the fake player."
+msgstr ""
+
+#: admin/functions/functions.options.php:149
+msgid "Random affiliate URL 2"
+msgstr ""
+
+#: admin/functions/functions.options.php:156
+msgid "Random affiliate URL 3"
+msgstr ""
+
+#: admin/functions/functions.options.php:163
+msgid "Random affiliate URL 4"
+msgstr ""
+
+#: admin/functions/functions.options.php:170
+msgid "Name for fake player"
+msgstr ""
+
+#: admin/functions/functions.options.php:177
+msgid "Aditional code"
+msgstr ""
+
+#: admin/functions/functions.options.php:182
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:183
+msgid ""
+"Place your Google Analytics code or some code that deses show before closing "
+"head tag."
+msgstr ""
+
+#: admin/functions/functions.options.php:189
+msgid "Aditional CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:190
+msgid "Add aditional CSS in your theme. this will add in the head."
+msgstr ""
+
+#: admin/functions/functions.options.php:196
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:201
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:205
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.options.php:208
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: admin/functions/functions.options.php:212
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: archive.php:6 category.php:6
+msgid "movies of"
+msgstr ""
+
+#: archive.php:7
+msgid "Find all movies and documentaries of this month."
+msgstr ""
+
+#: category.php:7
+msgid "Find all movies, tv shows and documentaries of"
+msgstr ""
+
+#: comments.php:28 comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:29 comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30 comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:1
+msgid "Developed by"
+msgstr ""
+
+#: footer.php:1
+msgid "Wordpress Themes"
+msgstr ""
+
+#: functions.php:78
+msgid "Principal menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:246
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:246 functions.php:256
+msgid "Edit"
+msgstr ""
+
+#: functions.php:255
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: functions.php:255
+msgid "(Your comment is awaiting moderation)"
+msgstr ""
+
+#: functions.php:278
+msgid "General - MasThemes"
+msgstr ""
+
+#: functions.php:279
+msgid ""
+"ID de IMDB (Example: http://www.imdb.com/title/tt2310332/ the ID is "
+"\"tt2310332\")"
+msgstr ""
+
+#: functions.php:280 functions.php:347
+msgid "Generate"
+msgstr ""
+
+#: functions.php:283
+msgid "English tittle:"
+msgstr ""
+
+#: functions.php:284
+msgid "Original tittle:"
+msgstr ""
+
+#: functions.php:285
+msgid "Writers:"
+msgstr ""
+
+#: functions.php:286 pages/lista.php:35
+msgid "Director:"
+msgstr ""
+
+#: functions.php:287
+msgid "Actors:"
+msgstr ""
+
+#: functions.php:288
+msgid "Release year:"
+msgstr ""
+
+#: functions.php:289
+msgid "Genres:"
+msgstr ""
+
+#: functions.php:290
+msgid "Sinopsis:"
+msgstr ""
+
+#: functions.php:291
+msgid "Backdrop:"
+msgstr ""
+
+#: functions.php:292
+msgid "Poster:"
+msgstr ""
+
+#: functions.php:293
+msgid "Runtime:"
+msgstr ""
+
+#: functions.php:294
+msgid "Status:"
+msgstr ""
+
+#: functions.php:295
+msgid "Vote average:"
+msgstr ""
+
+#: functions.php:296
+msgid "Vote count:"
+msgstr ""
+
+#: functions.php:297
+msgid "Captures (add one  Under the other):"
+msgstr ""
+
+#: functions.php:298
+msgid "Youtube ID:"
+msgstr ""
+
+#: functions.php:361
+msgid "Design of post"
+msgstr ""
+
+#: functions.php:450 functions.php:592
+msgid "director"
+msgstr ""
+
+#: functions.php:451 functions.php:592 loop/loop-single.php:76
+#: loop/loop-single.php:96 loop/loop-single2.php:78 loop/loop-single2.php:98
+#: loop/loop-single3.php:42
+msgid "Director"
+msgstr ""
+
+#: functions.php:453 functions.php:591
+msgid "writer"
+msgstr ""
+
+#: functions.php:454 functions.php:591
+msgid "Writer"
+msgstr ""
+
+#: functions.php:456 functions.php:593
+msgid "actor"
+msgstr ""
+
+#: functions.php:457 functions.php:593
+msgid "Actor"
+msgstr ""
+
+#: functions.php:459
+msgid "year_relase"
+msgstr ""
+
+#: functions.php:460
+msgid "Year"
+msgstr ""
+
+#: functions.php:557 functions.php:587 functions.php:615 pages/noticias.php:19
+#: single.php:2 single.php:8
+msgid "news"
+msgstr ""
+
+#: functions.php:562 functions.php:563
+msgid "News"
+msgstr ""
+
+#: functions.php:564
+msgid "Add news"
+msgstr ""
+
+#: functions.php:565
+msgid "Add new news"
+msgstr ""
+
+#: functions.php:566
+msgid "Edit news"
+msgstr ""
+
+#: functions.php:567
+msgid "New news"
+msgstr ""
+
+#: functions.php:568
+msgid "View news"
+msgstr ""
+
+#: functions.php:569
+msgid "Search news"
+msgstr ""
+
+#: functions.php:570
+msgid "No news"
+msgstr ""
+
+#: functions.php:571
+msgid "No news in the trash"
+msgstr ""
+
+#: functions.php:594
+msgid "Trailer of"
+msgstr ""
+
+#: functions.php:594
+msgid "Trailers not exist to date."
+msgstr ""
+
+#: functions.php:596
+msgid "Capture of"
+msgstr ""
+
+#: functions.php:605
+msgid "Show the last news"
+msgstr ""
+
+#: functions.php:606
+msgid "Last news - MasThemes"
+msgstr ""
+
+#: functions.php:636
+msgid "Title:"
+msgstr ""
+
+#: index.php:6
+msgid "Last movies"
+msgstr ""
+
+#: index.php:7
+msgid "Find all movies, tv shows and documentaries."
+msgstr ""
+
+#: loop/loop-list.php:22 loop/loop-single.php:36 loop/loop-single2.php:17
+#: loop/loop-single3.php:14 pages/lista.php:34
+msgid "Movie of"
+msgstr ""
+
+#: loop/loop-single.php:17 loop/loop-single2.php:30
+msgid "General"
+msgstr ""
+
+#: loop/loop-single.php:18 loop/loop-single2.php:31
+msgid "Information"
+msgstr ""
+
+#: loop/loop-single.php:19 loop/loop-single2.php:32
+msgid "Multimedia"
+msgstr ""
+
+#: loop/loop-single.php:20 loop/loop-single2.php:33
+msgid "Production"
+msgstr ""
+
+#: loop/loop-single.php:21 loop/loop-single2.php:34
+msgid "Comments"
+msgstr ""
+
+#: loop/loop-single.php:44
+msgid "Sinopsis"
+msgstr ""
+
+#: loop/loop-single.php:60 loop/loop-single2.php:62 loop/loop-single3.php:30
+msgid "Title in English"
+msgstr ""
+
+#: loop/loop-single.php:62 loop/loop-single2.php:64 loop/loop-single3.php:33
+msgid "Original title"
+msgstr ""
+
+#: loop/loop-single.php:64 loop/loop-single2.php:66
+msgid "Release year"
+msgstr ""
+
+#: loop/loop-single.php:66 loop/loop-single2.php:68 loop/loop-single3.php:36
+msgid "Genres"
+msgstr ""
+
+#: loop/loop-single.php:68 loop/loop-single2.php:70
+msgid "Duration"
+msgstr ""
+
+#: loop/loop-single.php:70 loop/loop-single2.php:72
+msgid "Status"
+msgstr ""
+
+#: loop/loop-single.php:72 loop/loop-single2.php:74 single.php:61
+#: single.php:152
+msgid "Rating"
+msgstr ""
+
+#: loop/loop-single.php:73 loop/loop-single2.php:75
+msgid "votes"
+msgstr ""
+
+#: loop/loop-single.php:74 loop/loop-single.php:98 loop/loop-single2.php:76
+#: loop/loop-single2.php:100 loop/loop-single3.php:39
+msgid "Writers"
+msgstr ""
+
+#: loop/loop-single.php:78 loop/loop-single.php:94 loop/loop-single2.php:80
+#: loop/loop-single2.php:96 loop/loop-single3.php:45
+msgid "Actors"
+msgstr ""
+
+#: loop/loop-single.php:83 loop/loop-single2.php:85 loop/loop-single3.php:72
+msgid "Screenshots"
+msgstr ""
+
+#: loop/loop-single.php:87 loop/loop-single2.php:89 loop/loop-single3.php:76
+msgid "Screenshots of"
+msgstr ""
+
+#: loop/loop-single.php:89 loop/loop-single2.php:91
+#: masthemes/descargas/descargas.php:132
+msgid "Trailer"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:50
+msgid "Download options"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:50
+msgid "Online options"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:61
+msgid "Option"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:62
+msgid "Server"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:64
+msgid "Quality"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:82
+msgid "No links available at the moment."
+msgstr ""
+
+#: masthemes/descargas/descargas.php:92
+msgid "Advertising"
+msgstr ""
+
+#: masthemes/descargas/descargas.php:251 masthemes/descargas/descargas.php:254
+msgid "Reload the page to unlock this option"
+msgstr ""
+
+#: masthemes/descargas/import/configuracion.php:12
+#: masthemes/descargas/import/configuracion.php:30
+msgid "Import"
+msgstr ""
+
+#: masthemes/descargas/import/configuracion.php:15
+#: masthemes/descargas/modal.php:22
+msgid "Download"
+msgstr ""
+
+#: masthemes/descargas/import/configuracion.php:16
+#: masthemes/descargas/modal.php:23
+msgid "Online"
+msgstr ""
+
+#: masthemes/descargas/import/configuracion.php:19
+#: masthemes/descargas/modal.php:27
+msgid "Link"
+msgstr ""
+
+#: masthemes/descargas/import/configuracion.php:32
+msgid "For more importers contact to masthemes.com"
+msgstr ""
+
+#: masthemes/descargas/modal.php:1 masthemes/descargas/modal.php:3
+msgid "Add link"
+msgstr ""
+
+#: masthemes/descargas/modal.php:6
+msgid "Latin"
+msgstr ""
+
+#: masthemes/descargas/modal.php:7
+msgid "Spanish"
+msgstr ""
+
+#: masthemes/descargas/modal.php:8
+msgid "Subtitled"
+msgstr ""
+
+#: masthemes/descargas/modal.php:9
+msgid "English"
+msgstr ""
+
+#: masthemes/descargas/modal.php:10
+msgid "Russian"
+msgstr ""
+
+#: masthemes/descargas/modal.php:24
+msgid "iFrame"
+msgstr ""
+
+#: masthemes/descargas/modal.php:29
+msgid "Add"
+msgstr ""
+
+#: masthemes/theme-updater.php:16
+msgid "Theme License"
+msgstr ""
+
+#: masthemes/theme-updater.php:17
+msgid "Enter your theme license key."
+msgstr ""
+
+#: masthemes/theme-updater.php:18
+msgid "License Key"
+msgstr ""
+
+#: masthemes/theme-updater.php:19
+msgid "License Action"
+msgstr ""
+
+#: masthemes/theme-updater.php:20
+msgid "Deactivate License"
+msgstr ""
+
+#: masthemes/theme-updater.php:21
+msgid "Activate License"
+msgstr ""
+
+#: masthemes/theme-updater.php:22 masthemes/theme-updater.php:34
+msgid "License status is unknown."
+msgstr ""
+
+#: masthemes/theme-updater.php:23
+msgid "Renew?"
+msgstr ""
+
+#: masthemes/theme-updater.php:24
+msgid "unlimited"
+msgstr ""
+
+#: masthemes/theme-updater.php:25
+msgid "License key is active."
+msgstr ""
+
+#: masthemes/theme-updater.php:26
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: masthemes/theme-updater.php:27
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: masthemes/theme-updater.php:28
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: masthemes/theme-updater.php:29
+msgid "License key has expired."
+msgstr ""
+
+#: masthemes/theme-updater.php:30
+msgid "License keys do not match."
+msgstr ""
+
+#: masthemes/theme-updater.php:31
+msgid "License is inactive."
+msgstr ""
+
+#: masthemes/theme-updater.php:32
+msgid "License key is disabled."
+msgstr ""
+
+#: masthemes/theme-updater.php:33
+msgid "Site is inactive."
+msgstr ""
+
+#: masthemes/theme-updater.php:35
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: masthemes/theme-updater.php:36
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: page.php:8 pages/noticias.php:26 single.php:34
+msgid "Posted"
+msgstr ""
+
+#: pages/lista.php:10
+msgid "List of movies"
+msgstr ""
+
+#: pages/lista.php:11
+msgid "See our full repertoire of movies."
+msgstr ""
+
+#: pages/lista.php:29
+msgid "Rate"
+msgstr ""
+
+#: pages/noticias.php:16
+msgid "Check out latest developments of"
+msgstr ""
+
+#: search.php:12
+msgid "Sorry , we cant find results of your term search."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search movie"
+msgstr ""
+
+#: single.php:23
+msgid "<span class=\"pages\">Pages:</span> <div class=\"pag\">"
+msgstr ""
+
+#: single.php:58 single.php:149
+msgid "Top 10"
+msgstr ""
+
+#: single.php:60 single.php:151
+msgid "Views"
+msgstr ""
+
+#: single.php:118
+msgid "Related movies"
+msgstr ""
+
+#: static/stars.php:26
+msgid "IMDB Rate"
+msgstr ""
+
+#: static/stars.php:28
+msgid "Total votes:"
+msgstr ""

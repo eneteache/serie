@@ -1,0 +1,61 @@
+* {
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.menu_bar {
+	display: none;
+}
+
+header {
+	width: 100%;
+}
+
+header nav {
+	background: blue;
+	z-index: 1000;
+	width: 95%;
+	margin: 20px auto;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	display: inline-block;
+	position: relative;
+}
+header nav ul li:hover {
+	background: orange;
+}
+header nav ul li a {
+	color: white;
+	display: block;
+	text-decoration: none;
+	padding: 20px;
+}
+
+header nav ul li a span {
+	margin-right: 10px;
+}
+
+header nav ul li:hover .children {
+	display: block;
+}
+
+header nav ul li .children {
+	display: none;
+	background: pink;
+	position: absolute;
+	width: 150%;
+	z-index: 1000;
+}
+
+header nav ul li .children li {
+	display: block;
+	overflow: hidden;
+}

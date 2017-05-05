@@ -1,0 +1,5 @@
+<ul class="socialbutn">
+  <li class="facebook"><a onclick="window.open ('http://www.facebook.com/sharer.php?u=<?php the_permalink();?>', 'Facebook', 'toolbar=0, status=0, width=650, height=450');"><i class="icon-facebook"></i> <span>Facebook</span></a></li>
+  <li class="google"><a onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" href="https://plus.google.com/share?url=<?php the_permalink();?>"><i class="icon-google"></i> <span>Google</span></a></li>
+  <li class="twitter"><a onclick="javascript:window.open('https://twitter.com/intent/tweet?original_referer=<?php the_permalink();?>&amp;text=<?php the_title(); ?>&amp;tw_p=tweetbutton&amp;url=<?php the_permalink();?>', 'Twitter', 'toolbar=0, status=0, width=650, height=450');"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
+</ul>

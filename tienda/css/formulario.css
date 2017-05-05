@@ -1,0 +1,94 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family:sans-serif;
+}
+
+body {
+	height: 90%;
+}
+
+.formulario {
+	margin: 2px auto;
+}
+
+form {
+	margin: 10px auto;
+	width: 100%;
+	max-width:350px ;
+	background: #F3F3F3;
+	padding: 25px;
+
+	padding-bottom: 15px;
+	border:1px solid rgba(0,0,0,0.2);
+}
+
+h3 {
+	text-align: center;
+	margin-bottom:20px;
+	color: grey;
+}
+
+input {
+	display:block;
+	padding:15px;
+	width:100%;
+	margin:10px 0;
+    font-size: 12px;
+	
+}
+
+input[type=submit] {
+	display: block;
+	width:100%
+    font-size: 14px;
+}
+
+form div.opciones {
+	position: relative;
+	display: block;
+	font-size: 13px;
+	text-align: right;
+}
+
+.opciones  a {
+	text-decoration: none;
+	display: block;
+	margin: 5px;
+}
+
+.opciones a:hover {
+	text-decoration: underline;
+	background: #2E9AFE;
+	left: 50%;
+}
+
+
+select {
+	display:block;
+	padding:15px;
+	width:100%;
+	margin:10px 0;
+    font-size: 12px
+}
+select option {
+	margin:0;
+	padding: 0;
+	font-size: 14px;
+}
+div.registro {
+	margin: 0 auto;
+}
+
+.titulo {
+	margin:0;
+	bottom:0;
+	background:green;
+}
+
+#error {
+	font-size: 12px;
+	color: #FF0000;
+	font-family: sans-serif;
+}
